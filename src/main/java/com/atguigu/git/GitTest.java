@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("dev 添加");
         System.out.println("master添加第九行");
         System.out.println("dev第九行添加");
+        System.out.println("远程添加understand")
     }
 }
